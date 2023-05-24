@@ -1,0 +1,15 @@
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\bin\Debug\net6.0\ConsoleAppOperatorok.exe
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\bin\Debug\net6.0\ConsoleAppOperatorok.deps.json
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\bin\Debug\net6.0\ConsoleAppOperatorok.runtimeconfig.json
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\bin\Debug\net6.0\ConsoleAppOperatorok.dll
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\bin\Debug\net6.0\ConsoleAppOperatorok.pdb
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\obj\Debug\net6.0\ConsoleAppOperatorok.csproj.AssemblyReference.cache
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\obj\Debug\net6.0\ConsoleAppOperatorok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\obj\Debug\net6.0\ConsoleAppOperatorok.AssemblyInfoInputs.cache
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\obj\Debug\net6.0\ConsoleAppOperatorok.AssemblyInfo.cs
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\obj\Debug\net6.0\ConsoleAppOperatorok.csproj.CoreCompileInputs.cache
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\obj\Debug\net6.0\ConsoleAppOperatorok.dll
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\obj\Debug\net6.0\refint\ConsoleAppOperatorok.dll
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\obj\Debug\net6.0\ConsoleAppOperatorok.pdb
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\obj\Debug\net6.0\ConsoleAppOperatorok.genruntimeconfig.cache
+D:\Suli\Programozás\Git\ConsoleAppOperatorok\ConsoleAppOperatorok\ConsoleAppOperatorok\obj\Debug\net6.0\ref\ConsoleAppOperatorok.dll
